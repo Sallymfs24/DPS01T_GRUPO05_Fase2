@@ -1,0 +1,11 @@
+.principal{
+	*background-color: silver;
+	position: absolute;
+	top:  27%;
+	width: 100%;
+}
+
+.img{
+	width: 256px;
+	height: 256px;
+}
